@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<!DOCTYPE Wellcome SYSTEM "test.dtd">
+<Wellcome>
+<name>Kamal</name>
+<age>90</age>
+<location>new</location>
+</Wellcome>

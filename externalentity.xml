@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<!DOCTYPE Wellcome [ <!ENTITY xxe SYSTEM "entity.txt"> ]>
+<Wellcome>
+<name>Kamal</name>
+<age>90</age>
+<location>&xxe;</location>
+</Wellcome>

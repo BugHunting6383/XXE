@@ -1,0 +1,6 @@
+<!-- External DTD File -->
+<!ELEMENT Wellcome (name, age, location)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+<!ELEMENT location (#PCDATA)>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!DOCTYPE Wellcome [
+<!ELEMENT Wellcome (name,age,location)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+<!ELEMENT location (#PCDATA)>
+]>
+<Wellcome>
+<name>Kamal</name>
+<age>90</age>
+<location>&company;</location>
+</Wellcome>
